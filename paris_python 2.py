@@ -7,3 +7,5 @@ Created on Mon Feb 27 16:41:37 2023
 """
 
 print('Hello')
+
+print('Hello world')
